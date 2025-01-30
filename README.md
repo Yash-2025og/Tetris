@@ -1,4 +1,4 @@
-# Modern Tetris Game
+# Tetris
 
 A sleek and modern version of the classic Tetris game built using HTML, CSS, and JavaScript. This game features a polished user interface, intuitive gameplay, pause/restart functionality, and a responsive design suitable for both desktop and mobile users.
 
